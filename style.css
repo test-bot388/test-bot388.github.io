@@ -1,12 +1,15 @@
 body {
-  height: "2000px";
 }
 .error {
   font-size: 20px;
 }
+.filler {
+  height: 3000px;
+}
 .link {
   display: block;
+  position: relative;
   height: 50px;
+  width: 13%;
   bottom: 0px;
-  background-color: aquamarine;
 }
